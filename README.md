@@ -1,2 +1,2 @@
 # AndresCamara
-Almacenar código de un proyecto en PHP
+Almacenar código de un proyecto en Python
