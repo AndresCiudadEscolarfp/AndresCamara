@@ -9,7 +9,11 @@
 #Importamos la librería math
 import math
 
-print("hola mundo")
+#Funcion para introducir tu nombre
+def introduceNombre ():
+    nombre = input("Introduce tu nombre: \n")
+    return nombre
+
 #Esto es una función que me pide que intriduzca dos valores por pantalla y me devuelve una tupla con esos valores
 def introducir():
     a= int(input("Introduce el primer número para la operación:\n"))
